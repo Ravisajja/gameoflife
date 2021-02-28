@@ -165,7 +165,7 @@
                     </configuration>
                 </plugin>
 
-            </plugins>
+            </plugins> to add day build
         </pluginManagement>
         <extensions>
             <extension>
